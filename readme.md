@@ -1,7 +1,7 @@
 # 🚀 Cost Tech - Portfólio de João Vitor
 ---
 
-## ⚙️ Observações: *>Iniciar o site pelo arquivo **index.css***
+## ⚙️ Observações: *>Iniciar o site pelo arquivo **index.html***
 
 Bem-vindo ao **Cost Tech**, o portfólio pessoal de **João Vitor**, um desenvolvedor web apaixonado por tecnologia, design criativo e soluções digitais. Este site apresenta meus projetos, habilidades e objetivos de carreira, com foco em inovação e impacto no mundo digital.
 
